@@ -56,7 +56,6 @@ Ranked: most expensive page first
 ----------------------------------------------------------------------
 ```
 
-(Replace these with real screenshots from sites you tested.)
 
 ## How it works
 
